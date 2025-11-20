@@ -14,7 +14,6 @@ import { ar, en, es, id, pt } from './lib/idiomas/total-idiomas.js'
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 '966560801636', 
-'967778411994',
 '156371605569680',
 '114912370122768'
 ]
@@ -96,7 +95,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [
 // Agregate si eres Owner
-["967778411994", '👑 HAYSO 👑', 1], 
+["966560801636", '👑 HAYSO 👑', 1], 
 ["966560801636", '💫 AURTHER 💫', 1]
 ]
 
@@ -145,7 +144,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = 'HAYSO : HAYSO'
 global.igfg = 'HAYSO'
-global.nomorown = '967778411994'
+global.nomorown = '966560801636'
 global.pdoc = [
 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
